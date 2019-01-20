@@ -1,0 +1,11 @@
+{
+    "name": "test",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+      "start": "webpack-dev-server --hot",
+      "dev": "webpack --mode development --watch",
+      "build": "webpack --mode production"
+    }
+}
